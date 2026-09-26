@@ -12,7 +12,7 @@
 
 import fs from "fs";
 
-const BACKEND = "https://apni-shop-backend-production.up.railway.app/";
+const BACKEND = "https://apni-shop-backend-production.up.railway.app";
 const DATA_FILE = "./data.json"; // apni file ka naam yahan badal sakte hain
 
 // Migration order zaroori hai taaki dependent records (cart, wishlist,
