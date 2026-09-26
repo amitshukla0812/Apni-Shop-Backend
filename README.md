@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Apni Shop Backend (Spring Boot + MySQL)
 
 Ye backend aapke React (Vite) project ke json-server (port **8000**, `db.json`)
@@ -187,3 +188,6 @@ src/main/java/com/apnishop/backend/
  ├── repository/       (Spring Data JPA repositories)
  └── controller/        (REST endpoints, ek-ek entity ke liye)
 ```
+=======
+# Apni-Shop-Backend
+>>>>>>> 26addcac23703bf297a4232349b91893a45ae588
